@@ -1,0 +1,90 @@
+Programs to solve:
+
+1. WAJP to design to upper case method and to lower case method to convert a character.
+2. WAJP to convert a string into uppercase and lower case without using inbuilt method
+
+1.Write a program to reverse a string.
+Ex: input: Hello
+    output:olleH
+2.  Write a program to remove duplicate from a string.
+Ex: input:Java is a programming language
+    output:Jav isprogmnlue
+3. Write a program to add number in a string.
+Ex: input: a="asc123bsd4" output: sum=10
+4. Count the number of lowercase, uppercase letters in a string
+Ex: input: I am a traVeLLer
+    output: uppercase:4 lowercase:9
+5. Convert the string into alternate uppercase and  lowercase characters
+Ex: input: Listen 
+    output: LiStEn
+6. WAJP to find the largest number and smallest number in an array
+Ex: input: [1,3,5,6,2,7]
+    output: largest=7 smallest=1 
+7. WAJP to achieve method overloading.
+8. WAJP to create a blueprint for student with attributes id, name also design display method.
+9. 
+9. WAJP to create a blueprint for employee with attributes salary, id and department. Also override toString, equals method.
+10. 
+WAJP to display the longest word in a string.
+Ex: input: I am a student.
+    output: student
+    
+    
+
+1. Write a program to check if two string are anagram or not.
+Ex: input: input1-Race input2-Care output-String is anagram
+
+2. Write a program to add number in a string.
+Ex1: input: a="asc123bsd4" output: sum=10	
+Ex2: input: a="asc123bsd4" output: sum=127
+
+3.Write a program to find digital sum of a number
+Ex: input: a=326  sol=3+2+6=11 output: sum=11 
+
+4.Write a program to reverse a sentence as shown below
+Ex: input: Hello My name is Ram
+   output: olleH yM eman si maR
+5.Write a program to reverse a string as follows
+Ex: input: Hello I am a good boy
+    output: boy good a am I Hello
+
+6.Write a program to display the number of unrepeated characters from a string
+Ex: input: I am a good boy
+    output: 9
+7.WAJP to print unique characters in a string.
+8.12.Write a program to convert uppercase into lower case and lower case into upper case
+Ex: input: My Name is Arun
+    output:mY nAME IS aRUN
+9.Write a program to remove numbers from string
+Ex: input: Ab2hishek12 
+    output: Abhishek
+10. WAJP to swap numbers without using extra variable
+Ex: input1: a=10, b=20
+    output: a=20, b=10
+11. WAJP to find largest number from an array
+Ex: input:[1,2,0,45,89]
+    output: 89
+12.WAJP to find smallest number from an array
+Ex: input:[1,2,0,45,89]
+    output: 0
+13.WAJP to find second largest elements from an array
+Ex: input1: [2,11,5,1,6]
+    output: 6
+14.WAJP to find nth smallest/largest element from an array
+Ex: input1: [22,3,1,5,6,8] n: 4th largest    input2: [22,34,7,4,2,11] n:3rd smallest
+    output: 5                                output: 7
+15.WAJP to store student object with attributes name, id in an array
+16.WAJP to merge 2 arrays
+Ex: input1: [1,2,3,4]  input2: [3,5,6,7,8]
+    output: [1,2,3,4,3,5,6,7,8]
+17.WAJP to merge 2 arrays in zigzag way
+Ex: input1: [1,2,3,4]  input2: [3,4,5,6]
+    output: [1,3,2,4,3,5,4,6]
+18. Compress the given string - aaaabbbccc - a4b3c3. 
+    input aaaabbbcaabb op: a4b3c1a2b2
+19. WAP to print array in the reverse order in java.
+Ex: input1:a= [1,2,3,4,-5]
+    output:a= [-5,4,3,2,1]
+20. If the input sum, the output should be(Find all the possible substrings of the given string)
+Print substrings only which have length 3
+s su sum u um m
